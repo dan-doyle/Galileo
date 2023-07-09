@@ -1,0 +1,756 @@
+00:09.8 <- Misplaced speech with third party, leave out
+Speaker 2: I did, uh, cigarette lighter.
+Speaker 2: For one.
+Speaker 1: Mm okay, I did knife.
+Speaker 3: Knife.
+Speaker 2: Okay, we'll do knife then.
+
+00:14.4 <- interrupting laughing doesn't count
+Speaker 2: Okay, we'll do knife then.
+Speaker 2: [laughter]
+Speaker 1: [laughter]
+Speaker 1: Well I think it -- that and-and, um, the cigarette lighter are all pretty important.
+Speaker 2: Yeah-yeah makes sense.
+
+00:23.9 <- Backchannel
+Speaker 2: Yeah-yeah makes sense.
+Speaker 2: Mhm.
+Speaker 1: So, I would say cigarette lighter is two.
+Speaker 1: I didn't write that down but I kinda made a connection afterwards.
+Speaker 2: [laughter] Yeah okay.
+
+00:24.3 <- Backchannel
+Speaker 2: Mhm.
+Speaker 1: So, I would say cigarette lighter is two.
+Speaker 1: I didn't write that down but I kinda made a connection afterwards.
+Speaker 2: [laughter] Yeah okay.
+Speaker 1: [laughter]
+
+00:27.4 -> Misplaced speech with third party, leave out
+Speaker 2: [laughter] Yeah okay.
+Speaker 1: [laughter]
+Speaker 3: I did two as compass.
+Speaker 2: Compass.
+Speaker 1: Mhm that's what I did initially.
+
+00:35.4 -> interruption
+Speaker 2: I did that as like nine.
+Speaker 2: [laughter]
+Speaker 3: Because there's no point in being able to start a fire if you can't get out right.
+Speaker 1: Well there's --
+Speaker 2: Yeah, but I was just thinking more of --
+
+00:37.0 -> interruption
+Speaker 2: [laughter]
+Speaker 3: Because there's no point in being able to start a fire if you can't get out right.
+Speaker 1: Well there's --
+Speaker 2: Yeah, but I was just thinking more of --
+Speaker 1: Short term?
+
+00:38.3 <- No overlap
+Speaker 3: Because there's no point in being able to start a fire if you can't get out right.
+Speaker 1: Well there's --
+Speaker 2: Yeah, but I was just thinking more of --
+Speaker 1: Short term?
+Speaker 2: Yeah, just kinda like to keep you warm.
+
+00:44.9 <- No overlap
+Speaker 1: Short term?
+Speaker 2: Yeah, just kinda like to keep you warm.
+Speaker 2: Or if anyone like sees you, you know, helicopters like flying over.
+Speaker 3: You won't see that.
+Speaker 2: [laughter]
+
+00:50.2 <- Interrupting laughter, omit
+Speaker 2: Well maybe.
+Speaker 1: Yeah that's what I was thinking.
+Speaker 1:  I was like you could start a really big fire.
+Speaker 1: [laughter]
+Speaker 2: Yeah that's all I was thinking about.
+
+00:58.8 <- Interrupting laughter, omit
+Speaker 2: Yeah that's all I was thinking about.
+Speaker 2: Um.
+Speaker 3: Mm... mm... coming back from my military training, yeah no.
+Speaker 3: [laughter]
+Speaker 1: Mhm.
+
+01:08.6 <- interruption concerning action of putting compass as two (pertains to doing something)
+Speaker 3: [laughter]
+Speaker 1: Mhm.
+Speaker 1: Okay, so what do we wanna do?
+Speaker 2: Uh we -- if you both put compass as two, then we can do compass.
+Speaker 3: Do you want it?
+
+01:09.0 <- Very unclear who is speaking to who. The 'okay' is initially backchannel, leave out
+Speaker 1: Mhm.
+Speaker 1: Okay, so what do we wanna do?
+Speaker 2: Uh we -- if you both put compass as two, then we can do compass.
+Speaker 3: Do you want it?
+Speaker 1: Okay, no, I really don't -- it doesn't matter.
+
+01:09.8
+Speaker 1: Okay, so what do we wanna do?
+Speaker 2: Uh we -- if you both put compass as two, then we can do compass.
+Speaker 3: Do you want it?
+Speaker 1: Okay, no, I really don't -- it doesn't matter.
+Speaker 3: It's up to you so.
+
+01:11.6 <- No overlap
+Speaker 3: Do you want it?
+Speaker 1: Okay, no, I really don't -- it doesn't matter.
+Speaker 3: It's up to you so.
+Speaker 1: Two?
+Speaker 3: Sure.
+
+01:25.3 <- interruption, as when hearing it finishes a sentence in an encouraging halt way
+Speaker 3: Sectional air map.
+Speaker 2: I did the, um, whiskey.
+Speaker 2: Just cause I was thinking.
+Speaker 1: Yeah the-the cigarette lighter and the whiskey and yeah.
+Speaker 2: Yeah.
+
+01:31.5 <- Answers question, interruption concerning action
+Speaker 2: Yeah.
+Speaker 3: Mhm yeah, I can see that. 
+Speaker 2: Yeah that's what I was --
+Speaker 1: Okay, do you want to do cigarette lighter as three because it was your two?
+Speaker 3: Sure.
+
+01:32.9 <- No overlap
+Speaker 2: Yeah that's what I was --
+Speaker 1: Okay, do you want to do cigarette lighter as three because it was your two?
+Speaker 3: Sure.
+Speaker 2: Mhm.
+Speaker 3: Sure, we can do that.
+
+01:46.4 <- interruption
+Speaker 2: Yeah.
+Speaker 1: Because there's --
+Speaker 3: I did four as, uh, ball of steel wool.
+Speaker 3: Cause that'll catch a lot faster than, uh, that whiskey will. 
+Speaker 1: Will it?
+
+01:47.5 <- misplaced speech with third party
+Speaker 3: I did four as, uh, ball of steel wool.
+Speaker 3: Cause that'll catch a lot faster than, uh, that whiskey will. 
+Speaker 1: Will it?
+Speaker 1: Okay, well that's smart.
+Speaker 2: Okay.
+
+01:49.0 <- noise
+Speaker 1: Will it?
+Speaker 1: Okay, well that's smart.
+Speaker 2: Okay.
+Speaker 2: Yeah I thought of that after.
+Speaker 1: [laughter]
+
+01:49.6 <- laughter not a conversational turn
+Speaker 1: Okay, well that's smart.
+Speaker 2: Okay.
+Speaker 2: Yeah I thought of that after.
+Speaker 1: [laughter]
+Speaker 3: Cause you can-you can-you can-you can spread those out, right.
+
+01:51.0 <- backchannel
+Speaker 2: Okay.
+Speaker 2: Yeah I thought of that after.
+Speaker 1: [laughter]
+Speaker 3: Cause you can-you can-you can-you can spread those out, right.
+Speaker 2: Yeah.
+
+01:55.3 <- backchannel
+Speaker 3: Cause you can-you can-you can-you can spread those out, right.
+Speaker 2: Yeah.
+Speaker 2: Yeah I thought about that after I saw that.
+Speaker 2: I was like, oh yeah, that makes a lot of sense.
+Speaker 1: Mhm.
+
+02:11.1 <- backchannel
+Speaker 3: Okay.
+Speaker 2: I had four for flashlight with batteries.
+Speaker 2: And then my five was a knife.
+Speaker 2: Except we already have knife so.
+Speaker 3: Mkay.
+
+02:22.1 <- noise
+Speaker 2: It's not very that important.
+Speaker 2: I was just thinking more like in-like in the dark.
+Speaker 1: Yeah [laughter].
+Speaker 2: Just like -- that's all I'm thinking about.
+Speaker 1: [laughter]
+
+02:23.6 <- No overlap
+Speaker 1: Yeah [laughter].
+Speaker 2: Just like -- that's all I'm thinking about.
+Speaker 1: [laughter]
+Speaker 1: I was like ah I'm [unclear].
+Speaker 3: Have you ever been out in like three in the morning without a flashlight?
+
+02:24.3 <- leave out
+Speaker 2: Just like -- that's all I'm thinking about.
+Speaker 1: [laughter]
+Speaker 1: I was like ah I'm [unclear].
+Speaker 3: Have you ever been out in like three in the morning without a flashlight?
+Speaker 2: [laughter]
+
+02:30.1 <- interruption
+Speaker 2: No.
+Speaker 2: Well yeah.
+Speaker 3: You can see right?
+Speaker 2: Okay, well like kinda.
+Speaker 1: Not in the woods.
+
+02:30.7 <- noise
+Speaker 2: Well yeah.
+Speaker 3: You can see right?
+Speaker 2: Okay, well like kinda.
+Speaker 1: Not in the woods.
+Speaker 2: [laughter]
+
+02:31.3 <- leave out
+Speaker 3: You can see right?
+Speaker 2: Okay, well like kinda.
+Speaker 1: Not in the woods.
+Speaker 2: [laughter]
+Speaker 1: [laughter]
+
+02:32.2 <- leave out
+Speaker 2: Okay, well like kinda.
+Speaker 1: Not in the woods.
+Speaker 2: [laughter]
+Speaker 1: [laughter]
+Speaker 2: I don't know it's just -- I'm just --
+
+02:32.6
+Speaker 1: Not in the woods.
+Speaker 2: [laughter]
+Speaker 1: [laughter]
+Speaker 2: I don't know it's just -- I'm just --
+Speaker 1: You gotta see predators coming.
+
+02:34.1 <- no overlap
+Speaker 2: [laughter]
+Speaker 1: [laughter]
+Speaker 2: I don't know it's just -- I'm just --
+Speaker 1: You gotta see predators coming.
+Speaker 2: Yeah, it's scary in the woods.
+
+02:40.5 <- no overlap
+Speaker 2: I was thinking like bears and stuff.
+Speaker 2: I don't know.
+Speaker 1: You could flashlight fish.
+Speaker 2: Yeah see, I don't know.
+Speaker 1: Cause you're near lakes.
+
+02:43.5 <- interruption concerning content, as it rejects the argument/ assertion by Speaker 1. They're interrupting to express uncertainty or disagreement with Speaker 1's line of thought.
+Speaker 2: Yeah see, I don't know.
+Speaker 1: Cause you're near lakes.
+Speaker 2: Yes.
+Speaker 1: And you're stuck there for a while.
+Speaker 2: I don't know.
+
+02:44.1 <- no overlap
+Speaker 1: Cause you're near lakes.
+Speaker 2: Yes.
+Speaker 1: And you're stuck there for a while.
+Speaker 2: I don't know.
+Speaker 3: Yeah, you don't want to be wa-walking in that water though.
+
+02:45.7 <- noise
+Speaker 2: Yes.
+Speaker 1: And you're stuck there for a while.
+Speaker 2: I don't know.
+Speaker 3: Yeah, you don't want to be wa-walking in that water though.
+Speaker 1: [laughter]
+
+02:59.3 <- no overlap
+Speaker 3: [laughter]
+Speaker 1: Okay, where are we, five?
+Speaker 2: Yeah so what was?
+Speaker 1: Hm.
+Speaker 3: I did compression kit.
+
+03:14.4
+Speaker 1: Well, I think if we have the compass we might as well chuck the map in there, you know.
+Speaker 2: Compass and the map.
+Speaker 2: Yeah I guess that makes sense.
+Speaker 3: Then again, you can just look at the map and know where you are after.
+Speaker 1: And also if you read it, it says that he said you were eighty miles northwest.
+
+03:20.3 <- noise
+Speaker 2: Yeah I guess that makes sense.
+Speaker 3: Then again, you can just look at the map and know where you are after.
+Speaker 1: And also if you read it, it says that he said you were eighty miles northwest.
+Speaker 1: So if you kinda walk that way you might find it.
+Speaker 2: [laughter]
+
+03:22.8 <- no overlap
+Speaker 1: And also if you read it, it says that he said you were eighty miles northwest.
+Speaker 1: So if you kinda walk that way you might find it.
+Speaker 2: [laughter]
+Speaker 2: Maybe.
+Speaker 1: Maybe eighty miles later.
+
+03:31.4
+Speaker 3: It's not that far.
+Speaker 1: Yeah.
+Speaker 3: It's just eighty miles.
+Speaker 1: A quick jog away.
+Speaker 3: Couple days- couple days-couple days track.
+
+03:33.0 <- leave out
+Speaker 1: Yeah.
+Speaker 3: It's just eighty miles.
+Speaker 1: A quick jog away.
+Speaker 3: Couple days- couple days-couple days track.
+Speaker 1: [laughter]
+
+03:45.0 <- interruption
+Speaker 1: Okay.
+Speaker 2: So what will be our five then?
+Speaker 1: Mm.
+Speaker 3: Was there anything on here that we haven't already gotten that we all wanted?
+Speaker 1: That was higher?
+
+03:55.7 <- no overlap
+Speaker 1: That was higher?
+Speaker 1: I did the pistol as higher.
+Speaker 1: But it's not really necessary.
+Speaker 2: Pistol was like seven for me.
+Speaker 1: Mhm.
+
+03:58.3 <- no overlap
+Speaker 1: But it's not really necessary.
+Speaker 2: Pistol was like seven for me.
+Speaker 1: Mhm.
+Speaker 2: So you can shoot [laughter] something.
+Speaker 3: It was my seven too.
+
+04:02.7 <- no overlap
+Speaker 2: Oh good.
+Speaker 3: Not-not that high up.
+Speaker 1: Yeah I know I was just like -- I was thinking like long term like if you needed to shoot animal to eat it.
+Speaker 2: Yeah.
+Speaker 3: It's not that useful.
+
+04:10.2 <- leave out, doesn't match up
+Speaker 3: It's not that useful.
+Speaker 2: Yeah.
+Speaker 1: [laughter]
+Speaker 2: Yeah I-I literally I put chocolate bar higher up than the pistol.
+Speaker 1: You're stuck there for a while.
+
+04:24.1 <- backchannel
+Speaker 3: Mhm.
+Speaker 3: Mhm.
+Speaker 1: Okay-okay five, um.
+Speaker 2: Oh, sorry, are we going to do the, um, compression kit or the map then?
+Speaker 1: Mhm.
+
+04:26.9 -> interruption concerning content as we are supplying information that has been requested
+Speaker 1: Okay-okay five, um.
+Speaker 2: Oh, sorry, are we going to do the, um, compression kit or the map then?
+Speaker 1: Mhm.
+Speaker 1: [unclear] what did you?
+Speaker 3: I'm-I'm indifferent for the two.
+
+04:31.4 -> no overlap
+Speaker 3: I'm-I'm indifferent for the two.
+Speaker 3: I did compression kit.
+Speaker 2: Okay.
+Speaker 3: Cause I had map higher up but.
+Speaker 1: Okay, why don't we do map and then compression kit?
+
+04:54.4
+Speaker 1: Three, four, five, six.
+Speaker 2: And then seven I had the pistol too.
+Speaker 1: Should we put the eighty-five proof whiskey in there somewhere or it is replaced by the steel wool?
+Speaker 3: The steel wool can be used as -- cause we have flint already, flint, steel we already have it, so.
+Speaker 1: Mhm.
+
+04:56.6 -> no overlap
+Speaker 1: Should we put the eighty-five proof whiskey in there somewhere or it is replaced by the steel wool?
+Speaker 3: The steel wool can be used as -- cause we have flint already, flint, steel we already have it, so.
+Speaker 1: Mhm.
+Speaker 2: We're pretty set.
+Speaker 1: Okay.
+
+05:01.4
+Speaker 1: Okay.
+Speaker 3: You're-you're set for fire.
+Speaker 3: So you got warmth.
+Speaker 3: You have tool that you can use to build other tools.
+Speaker 1: Mhm.
+
+05:08.2 <- noise
+Speaker 3: You have tool that you can use to build other tools.
+Speaker 1: Mhm.
+Speaker 1: Okay what's next?
+Speaker 3: And you have a way to get out.
+Speaker 2: [laughter]
+
+05:08.9 <- interruption
+Speaker 1: Okay what's next?
+Speaker 3: And you have a way to get out.
+Speaker 2: [laughter]
+Speaker 3: Way to navigate.
+Speaker 2: Kinda.
+
+05:10.0 <- leave out 
+Speaker 2: [laughter]
+Speaker 3: Way to navigate.
+Speaker 2: Kinda.
+Speaker 2: [laughter] yeah.
+Speaker 1: [laughter]
+
+05:13.8 <- interruption
+Speaker 2: Kinda.
+Speaker 2: [laughter] yeah.
+Speaker 1: [laughter]
+Speaker 2: So then we need kinda like a weapon maybe.
+Speaker 1: Okay, so the-the pistol then?
+
+05:17.2 <- no overlap
+Speaker 1: [laughter]
+Speaker 2: So then we need kinda like a weapon maybe.
+Speaker 1: Okay, so the-the pistol then?
+Speaker 2: Yeah we'll do seven as the pistol.
+Speaker 1: Seven.
+
+05:17.8 <- no overlap
+Speaker 2: So then we need kinda like a weapon maybe.
+Speaker 1: Okay, so the-the pistol then?
+Speaker 2: Yeah we'll do seven as the pistol.
+Speaker 1: Seven.
+Speaker 3: We have a knife.
+
+05:22.6 <- interruption
+Speaker 1: Seven.
+Speaker 3: We have a knife.
+Speaker 2: Oh yeah.
+Speaker 2: Like are you -- oh -- yeah.
+Speaker 1: You're not going to stab an animal.
+
+05:23.6 <- interruption
+Speaker 3: We have a knife.
+Speaker 2: Oh yeah.
+Speaker 2: Like are you -- oh -- yeah.
+Speaker 1: You're not going to stab an animal.
+Speaker 2: Personally-personally I wouldn't like go at an animal [laughter].
+
+05:24.0 <- leave out
+Speaker 2: Oh yeah.
+Speaker 2: Like are you -- oh -- yeah.
+Speaker 1: You're not going to stab an animal.
+Speaker 2: Personally-personally I wouldn't like go at an animal [laughter].
+Speaker 1: [laughter]
+
+05:25.2 <- leave out 
+Speaker 2: Like are you -- oh -- yeah.
+Speaker 1: You're not going to stab an animal.
+Speaker 2: Personally-personally I wouldn't like go at an animal [laughter].
+Speaker 1: [laughter]
+Speaker 3: [laughter]
+
+05:27.8 <- leave out
+Speaker 2: Personally-personally I wouldn't like go at an animal [laughter].
+Speaker 1: [laughter]
+Speaker 3: [laughter]
+Speaker 2: But [laughter] you know.
+Speaker 1: I'm not that swift.
+
+05:28.5 <- no overlap
+Speaker 1: [laughter]
+Speaker 3: [laughter]
+Speaker 2: But [laughter] you know.
+Speaker 1: I'm not that swift.
+Speaker 3: You tie it around a stick.
+
+05:36.6 <- third party
+Speaker 2: Yeah I'm not that --
+Speaker 3: And then you -- and then you have a spear.
+Speaker 3: Which is actually going to be illegal to hunt now in BC.
+Speaker 2: I'm not that like smart. 
+Speaker 1: Spear hunting.
+
+05:37.2 <- no overlap
+Speaker 3: And then you -- and then you have a spear.
+Speaker 3: Which is actually going to be illegal to hunt now in BC.
+Speaker 2: I'm not that like smart. 
+Speaker 1: Spear hunting.
+Speaker 3: Spear hunting is now no longer allowed.
+
+05:37.9 <- leave out
+Speaker 3: Which is actually going to be illegal to hunt now in BC.
+Speaker 2: I'm not that like smart. 
+Speaker 1: Spear hunting.
+Speaker 3: Spear hunting is now no longer allowed.
+Speaker 1: [unclear]
+
+05:42.8 <- no overlap
+Speaker 1: [unclear]
+Speaker 2: Um.
+Speaker 1: We would need the rope to do that.
+Speaker 2: Yeah I put eight as rope.
+Speaker 1: Mhm.
+
+05:43.2 <- leave out
+Speaker 2: Um.
+Speaker 1: We would need the rope to do that.
+Speaker 2: Yeah I put eight as rope.
+Speaker 1: Mhm.
+Speaker 2: I don't know why.
+
+05:45.6 <- no overlap
+Speaker 2: I don't know why.
+Speaker 3: Same.
+Speaker 1: Okay.
+Speaker 2: I just kinda.
+Speaker 3: It comes in handy.
+
+05:46.7 <- no overlap
+Speaker 3: Same.
+Speaker 1: Okay.
+Speaker 2: I just kinda.
+Speaker 3: It comes in handy.
+Speaker 2: Yeah, I kinda thought it would.
+
+05:56.1 <- misplaced speech, leave out 
+Speaker 2: Yeah, I kinda thought it would.
+Speaker 2: Um.
+Speaker 3: Nine, I put extra shirt pants.
+Speaker 2: Yep, I put well -- 
+Speaker 3: Cause you can use a lot of that for other stuff.
+
+06:00.2 <- interruption
+Speaker 3: Nine, I put extra shirt pants.
+Speaker 2: Yep, I put well -- 
+Speaker 3: Cause you can use a lot of that for other stuff.
+Speaker 3: You can start ripping it apart and using it for --
+Speaker 2: That's true.
+
+06:02.5 <- anticipate the words and say them for you is concerning action
+Speaker 3: You can start ripping it apart and using it for --
+Speaker 2: That's true.
+Speaker 1: Mhm.
+Speaker 2: You don't always have to use it for -- 
+Speaker 3: For what it's intended.
+
+06:02.9 <- unclear
+Speaker 2: That's true.
+Speaker 1: Mhm.
+Speaker 2: You don't always have to use it for -- 
+Speaker 3: For what it's intended.
+Speaker 1: Okay I --
+
+06:05.6 <- unclear
+Speaker 2: You don't always have to use it for -- 
+Speaker 3: For what it's intended.
+Speaker 1: Okay I --
+Speaker 2: My nine was a compass but I mean that's super irrelevant.
+Speaker 1: Yeah.
+
+06:18.4 <- leave out
+Speaker 1: Yeah I put ten.
+Speaker 1: Mine is flashlight is ten.
+Speaker 2: [laughter]
+Speaker 1: [laughter]
+Speaker 3: I put fifteen as flashlight and batteries.
+
+06:20.7 <- third party
+Speaker 2: [laughter]
+Speaker 1: [laughter]
+Speaker 3: I put fifteen as flashlight and batteries.
+Speaker 2: Really?
+Speaker 1: Mhm, mine was can of shortening.
+
+06:24.9 <- leave out
+Speaker 2: Really?
+Speaker 1: Mhm, mine was can of shortening.
+Speaker 1: I don't really know how to use.
+Speaker 1: [laughter]
+Speaker 3: Can of shortening is also, uh, a starter.
+
+06:44.6 <- backchannel
+Speaker 1: [laughter]
+Speaker 3: Least important.
+Speaker 2: You would -- you would say flashlight?
+Speaker 3: I would say flashlight followed by ski poles.
+Speaker 2: Okay.
+
+06:54.9 <- leave out 
+Speaker 2: Okay, uh, mine's -- I put mine as ski poles.
+Speaker 2: Cause that -- I don't like -- I don't know.
+Speaker 2: What would you do with it? Ski? Ski away?
+Speaker 2: [laughter]
+Speaker 3: Well you don't have -- you don't have skis.
+
+06:59.9 <- no real overlap
+Speaker 3: Well you don't have -- you don't have skis.
+Speaker 3: You just have the poles, right.
+Speaker 2: Uh, yeah exactly.
+Speaker 2: But could it be used as a weapon too?
+Speaker 3: It-it could be used as a weapon but ski poles and sticks look very similar.
+
+07:01.2
+Speaker 3: You just have the poles, right.
+Speaker 2: Uh, yeah exactly.
+Speaker 2: But could it be used as a weapon too?
+Speaker 3: It-it could be used as a weapon but ski poles and sticks look very similar.
+Speaker 2: But we already have --
+
+07:05.3 <- no overlap
+Speaker 2: But could it be used as a weapon too?
+Speaker 3: It-it could be used as a weapon but ski poles and sticks look very similar.
+Speaker 2: But we already have --
+Speaker 2: Yeah.
+Speaker 1: I was thinking more to like build a shelter but you have sticks all around so I don't understand how that would be necessary.
+
+07:08.6
+Speaker 3: It-it could be used as a weapon but ski poles and sticks look very similar.
+Speaker 2: But we already have --
+Speaker 2: Yeah.
+Speaker 1: I was thinking more to like build a shelter but you have sticks all around so I don't understand how that would be necessary.
+Speaker 3: You have -- you have -- you have -- you have trees already.
+
+07:10.5 <- backchannel
+Speaker 2: But we already have --
+Speaker 2: Yeah.
+Speaker 1: I was thinking more to like build a shelter but you have sticks all around so I don't understand how that would be necessary.
+Speaker 3: You have -- you have -- you have -- you have trees already.
+Speaker 1: Yeah [laughter].
+
+07:11.0 <- leave out
+Speaker 2: Yeah.
+Speaker 1: I was thinking more to like build a shelter but you have sticks all around so I don't understand how that would be necessary.
+Speaker 3: You have -- you have -- you have -- you have trees already.
+Speaker 1: Yeah [laughter].
+Speaker 3: Y-you don't need it.
+
+07:11.8 <- leave out 
+Speaker 1: I was thinking more to like build a shelter but you have sticks all around so I don't understand how that would be necessary.
+Speaker 3: You have -- you have -- you have -- you have trees already.
+Speaker 1: Yeah [laughter].
+Speaker 3: Y-you don't need it.
+Speaker 2: Okay, so do we want to put, um.
+
+07:13.6 <- interruption concerning action, this is a 'rush'
+Speaker 3: You have -- you have -- you have -- you have trees already.
+Speaker 1: Yeah [laughter].
+Speaker 3: Y-you don't need it.
+Speaker 2: Okay, so do we want to put, um.
+Speaker 1: That as fifteen?
+
+07:14.1 <- third party
+Speaker 1: Yeah [laughter].
+Speaker 3: Y-you don't need it.
+Speaker 2: Okay, so do we want to put, um.
+Speaker 1: That as fifteen?
+Speaker 3: I'd put ski poles -- or yeah I think that would be --
+
+07:14.8 <- third party
+Speaker 3: Y-you don't need it.
+Speaker 2: Okay, so do we want to put, um.
+Speaker 1: That as fifteen?
+Speaker 3: I'd put ski poles -- or yeah I think that would be --
+Speaker 2: Yeah fif-fifteen.
+
+07:27.4 <- no overlap
+Speaker 2: And then we could put fourteen as flashlights if we want.
+Speaker 3: Why, what did you have for your fourteen?
+Speaker 2: Um, I had the air map made of plastic.
+Speaker 1: Mm.
+Speaker 2: [laughter]
+
+07:35.6 <- interruption
+Speaker 3: A map that doesn't get wet?
+Speaker 3: [laughter]
+Speaker 2: I just -- I don't know -- just cause they already told you where you were.
+Speaker 2: I don't -- I-I don't know how to read a map so it would just be super pointless for me honestly.
+Speaker 1: Yeah no, I don't know how to read a map.
+
+07:52.8 <- third party
+Speaker 1: Then the chocolate bar?
+Speaker 2: Chocolate bar, yeah.
+Speaker 2: That was --
+Speaker 1: And --
+Speaker 3: You'd want that though.
+
+07:54.9 <- no overlap
+Speaker 2: That was --
+Speaker 1: And --
+Speaker 3: You'd want that though.
+Speaker 3: That-that would be higher up.
+Speaker 2: Yeah.
+
+07:58.9
+Speaker 3: That-that would be higher up.
+Speaker 2: Yeah.
+Speaker 1: No but I'm saying what-what else is left here.
+Speaker 1: Oh and the-the whiskey.
+Speaker 3: Let's-let's see here.
+
+08:00.7 <- leave out 
+Speaker 1: No but I'm saying what-what else is left here.
+Speaker 1: Oh and the-the whiskey.
+Speaker 3: Let's-let's see here.
+Speaker 2: New-newspaper, chocolate bar, whiskey, shortening.
+Speaker 3: Newspaper.
+
+08:14.9 <- no overlap
+Speaker 2: Mm.
+Speaker 3: Yes.
+Speaker 2: Um.
+Speaker 3: Yeah it's thirteen.
+Speaker 1: And then twelve?
+
+08:25.9 <- interruption
+Speaker 1: And then twelve?
+Speaker 2: Do you want to put the chocolate bar or like?
+Speaker 3: I would put the chocolate bar above the newspaper.
+Speaker 2: Yeah yeah just cause you might get a little hungry.
+Speaker 3: Cause I -- a little boost of energy is always well needed.
+
+08:28.2 <- backchannel and then a reply so leave out
+Speaker 2: Do you want to put the chocolate bar or like?
+Speaker 3: I would put the chocolate bar above the newspaper.
+Speaker 2: Yeah yeah just cause you might get a little hungry.
+Speaker 3: Cause I -- a little boost of energy is always well needed.
+Speaker 2: Mhm so is that -- is that ten?
+
+08:29.2 third party
+Speaker 3: I would put the chocolate bar above the newspaper.
+Speaker 2: Yeah yeah just cause you might get a little hungry.
+Speaker 3: Cause I -- a little boost of energy is always well needed.
+Speaker 2: Mhm so is that -- is that ten?
+Speaker 1: So newspaper is going to be ten, yeah.
+
+08:37.9 
+Speaker 2: Mhm so is that -- is that ten?
+Speaker 1: So newspaper is going to be ten, yeah.
+Speaker 2: Yeah.
+Speaker 1: And then chocolate bar is eleven?
+Speaker 2: Like chocolate bar eleven.
+
+08:42.3 <- leave out 
+Speaker 2: Like chocolate bar eleven.
+Speaker 3: Sure.
+Speaker 2: [laughter]
+Speaker 1: And twelve... [laughter]
+Speaker 2: I like chocolate yeah.
+
+08:43.3 <- no overlap
+Speaker 3: Sure.
+Speaker 2: [laughter]
+Speaker 1: And twelve... [laughter]
+Speaker 2: I like chocolate yeah.
+Speaker 1: Same here.
+
+09:24.6 <- interruption
+Speaker 1: Mhm.
+Speaker 3: Wanna read them all?
+Speaker 1: One is knife, two compass, three cigarette lighter without fluid, four ball of steel wool, five uh sectional air map made of plastic, six compress kit, seven loaded forty five caliber pistol, eight thirty feet of rope, nine extra shirt and pants, ten newspaper, eleven family sized chocolate bar, twelve whiskey, thirteen shortening, fourteen flashlight, fifteen ski poles.
+Speaker 2: I honestly kinda feel like newspaper and chocolate bar should switch, but I mean.
+Speaker 3: Same.
+
