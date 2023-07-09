@@ -7,3 +7,5 @@
 /generate_dataset/overlap_transcriptions/
 /generate_dataset/annotation_template.py
 /generate_dataset/dataset-env/
+
+/baseline_model/baseline-model-env/
