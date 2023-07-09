@@ -1,8 +1,8 @@
-./dataset/
+/dataset/
 
-./generate_dataset/Audio/
-./generate_dataset/Transcript/
-./generate_dataset/dataset/
-./generate_dataset/overlap_transcriptions/
-./generate_dataset/annotation_template.py
-./generate_dataset/dataset-env/
+/generate_dataset/Audio/
+/generate_dataset/Transcript/
+/generate_dataset/dataset/
+/generate_dataset/overlap_transcriptions/
+/generate_dataset/annotation_template.py
+/generate_dataset/dataset-env/
